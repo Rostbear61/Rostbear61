@@ -7,4 +7,4 @@
 - Сейчас активно ищу работу. Вот мое резюме(ссылка).
 
 ## Языки и Технологии
-HTML, CSS, JavaScript.
+HTML, CSS, JavaScript, GitBash, Figma.
